@@ -1,7 +1,11 @@
 <h1 align="center">42cursus</h1>
 
 ## My 42 Kocaeli adventure
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/icopoglu?UM6P=off" alt="icopoglu's 42 stats" /></a>
+<p align ="left" >
+  <a href="https://profile.intra.42.fr/users/icopoglu" />
+    <img src="https://badge42.vercel.app/api/v2/clkl2yb1v002108mi9nb1h7z3/stats?cursusId=21&coalitionId=361" alt="icopoglu's 42 stats" />
+  </a>
+</p>
 
 | Project  | Status |
 | ------------- | ------------- |
